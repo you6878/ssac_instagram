@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613732882418",
+    "project_id": "howlstagram2021",
+    "storage_bucket": "howlstagram2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613732882418:android:d223a4ac9e65ed0aa63d6b",
+        "android_client_info": {
+          "package_name": "com.howlab.howlstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613732882418-ol5gr6dhnk2ock02tk5ksjq42ho9e55s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.howlab.howlstagram",
+            "certificate_hash": "f4f21b98e63f09b313f86e23e7ce5e638e1e7df3"
+          }
+        },
+        {
+          "client_id": "613732882418-fb3ps5ac7fnl8roohjl43gmcgu73888k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXeWssoKGMhrIdaWen1XYWruyWNqJfS-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613732882418-fb3ps5ac7fnl8roohjl43gmcgu73888k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
